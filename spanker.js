@@ -17,11 +17,11 @@ for (let index = 0; index < tokens.length; index++) {
         console.log(client1.user.username);
         setInterval(() => {
             const am = [
-            "👑 WELCOME TO MAHŞER 👑",
-             "Spanker 💛 Sinan Karanfil",
-             "👑 WELCOME TO MAHŞER 👑",
-             "Spanker 💛 Erdal Çoban",
-             "👑 WELCOME TO MAHŞER 👑",
+            "DURUM",
+             "Spanker 💛 SİZ",
+             "ÇOĞALTIN",
+             "BÖLE",
+             "DEVELOPED BY SPANKER",
 
 
             ];
